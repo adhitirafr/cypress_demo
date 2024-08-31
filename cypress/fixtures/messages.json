@@ -1,0 +1,7 @@
+{
+  "login": {
+    "blank": "Email and Password must be filled",
+    "invalid_email": "Please enter a valid email",
+    "invalid_auth": "Incorrect email or password"
+  }
+}
